@@ -1,4 +1,6 @@
 /* Updated base.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Merriweather&display=swap');
+
 body {
   font-family: 'Roboto', sans-serif, Arial, Helvetica, sans-serif;
   margin: 0;
